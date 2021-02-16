@@ -1,0 +1,64 @@
+.multi-div h2{
+    color:#20b1b2;
+    
+
+}
+.section{
+    background-image: url(../images/96.jpg);
+    height: 30rem;
+}
+.section-1{
+    background-color: #eeeeee;
+    height: 15rem;
+}
+.section-2{
+    background-color: #eeeeee;
+    height: 50rem;
+}
+.span{
+    padding-left: 5rem;
+}
+.span1{
+    padding-left: 7rem;
+}
+.section-4{
+    background-image: url(../images/12.jpg);
+    height: 25rem;
+}
+.section-5{
+    background-image: url(../images/19.jpg);
+    color: white;
+    height: 30rem;
+}
+.section-6{
+    height: 56rem;
+}
+.section-8{
+    background-image: url(../images/21.jpg);
+    text-align: center;
+    color: white;
+    height: 30rem;
+}
+.heading{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin: 0 4rem 0 5rem
+}
+.divi-1{
+    transform: translatey(28px);
+    font-size: 25px;
+    margin-left: 5rem;
+}
+.dollar{
+    transform: translateY(38px);
+}
+.section-9{
+    height: 3rem;
+}
+.division-1{
+    margin: 2rem;
+    padding: 1rem;
+}
+.span-1{
+    font-size: 5rem;
+}
